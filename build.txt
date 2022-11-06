@@ -1,0 +1,3 @@
+displayName = DPS Calculator
+author = rubby
+version = 0.1
