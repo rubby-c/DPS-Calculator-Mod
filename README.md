@@ -1,2 +1,2 @@
 # DPS-Calculator-Mod
-awesome mod
+The files are generated on each HOME key press in your tModLoader folder.
